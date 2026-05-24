@@ -9,10 +9,13 @@ NOTE - Video should be AI generated. it should be unique based on the initial co
 NOTE - first make it using free AI models, will see the response how it's working and then we can plan for some purchase. (so make it compatible or easy to change the AI models)
 
 
-# What you need to do first
-1. Create a flowchart.html (which will tell me how the flow will work)
-2. Create a ai-uses.md (which tells what are the models or ai we are going to use free tier and premium tier)
-3. Create a tech-stack.md (which tells what are the projects need to create and what all tech stack will be used)
-4. Create a api-uses.md (which tells what are the api will be required like instagram api etc)
+# This is present for your reference how the flow and actual things will work
+1. Created a flowchart.html (which will tell me how the flow will work)
+2. Created a ai-uses.md (which tells what are the models or ai we are going to use free tier and premium tier)
+3. Created a tech-stack.md (which tells what are the projects need to create and what all tech stack will be used)
+4. Created a api-uses.md (which tells what are the api will be required like instagram api etc)
 
-WILL PLAN NEXT THING ONCE I HAVE ALL ABOVE INFORMATION
+
+# I have installed Python in the system now start with the development
+## Create a plan don't generate everything at once, need to implement one by one after testing each part
+### Create plan.md and start with first plan then I will test and will give you command for the next
