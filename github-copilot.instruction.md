@@ -7,3 +7,12 @@ Step 4 - this thing should repeat daily, or there should be option when I can sk
 
 NOTE - Video should be AI generated. it should be unique based on the initial context I provide. (example - AI Daily News).
 NOTE - first make it using free AI models, will see the response how it's working and then we can plan for some purchase. (so make it compatible or easy to change the AI models)
+
+
+# What you need to do first
+1. Create a flowchart.html (which will tell me how the flow will work)
+2. Create a ai-uses.md (which tells what are the models or ai we are going to use free tier and premium tier)
+3. Create a tech-stack.md (which tells what are the projects need to create and what all tech stack will be used)
+4. Create a api-uses.md (which tells what are the api will be required like instagram api etc)
+
+WILL PLAN NEXT THING ONCE I HAVE ALL ABOVE INFORMATION
