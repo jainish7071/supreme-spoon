@@ -19,3 +19,10 @@ NOTE - first make it using free AI models, will see the response how it's workin
 # I have installed Python in the system now start with the development
 ## Create a plan don't generate everything at once, need to implement one by one after testing each part
 ### Create plan.md and start with first plan then I will test and will give you command for the next
+
+### Special Note : Once you do any changes you should update this github-copilot instruction as well so in future for another model of AI it will be easy to implement this in case of anything failure.
+
+### Progress updates:
+- Created `plan.md` and a Python package scaffold at `video_tool/`.
+- Added a first working local video generator using `moviepy` and `Pillow`.
+- Added `requirements.txt` for the first testable iteration.
